@@ -152,7 +152,7 @@ This project was developed to evaluate the Voxgig SDK generator from a developer
 - **Entity-oriented interface:** The generated client provides a consistent abstraction over API operations, making the calling code easier to read.
 - **Useful lower-level access:** The `direct()` and `prepare()` methods provide additional control when the higher-level entity interface is insufficient.
 - **Testing support:** The mock test transport makes it possible to test client behavior without relying on a live API for every test.
-- **Documentation and structure:** The generated project includes a README, API reference, source code, and test suite, providing a useful starting point for exploring the SDK.
+- **Documentation and structure:** The generated project includes a README, Report (generator report), API reference, source code, and test suite, providing a useful starting point for exploring the SDK.
 
 ### Areas that need manual review
 
